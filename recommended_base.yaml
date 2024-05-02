@@ -35,6 +35,6 @@ web_server:
 
 packages:
   remote_package:
-    url: https://github.com/M4GNV5/esphome-SK20-Nebula-Light.git
+    url: https://github.com/seberm/esphome-SK20-Nebula-Light.git
     ref: master
     files: [platform_bk72xx.yaml, nebula_light_device.yaml]
