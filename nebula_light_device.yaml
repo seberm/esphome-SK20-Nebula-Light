@@ -165,7 +165,7 @@ script:
   - id: script_turn_off_timer
     mode: restart
     then:
-      - delay: 1h
+      - delay: 90min
       - switch.turn_off: switch_main
 
 select:
